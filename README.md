@@ -1,5 +1,6 @@
 # Udhamini_app
-his is an application that is used to track the progress of items booked for repair as they are moved from one step to another until completion of the repair process. Its aim is to give customer satisfaction in the process of servicing their gadgets which they have taken back after purchase.
+Udhamin App Tracker (Progress)
+This is an application that is used to track the progress of items booked for repair as they are moved from one step to another until completion of the repair process. Its aim is to give customer satisfaction in the process of servicing their gadgets which they have taken back after purchase.
 
 The live site can be available on: https://udhamini-app-frontend.herokuapp.com/
 
@@ -87,6 +88,7 @@ Other interested parties
 Acknowledgements
 We give credit to:
 
-Our Technical Mentor Mr Gideon Maroko
+Technical Mentor Mr Enoch Maonga
 Contact
 Created by:
+Alfonse Juma
